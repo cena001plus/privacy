@@ -5,6 +5,7 @@ To protect your privacy, we provide you with the right to delete your account an
 
 ---
 
+
 ### 1. 申请方式 / How to Request
 请通过您的注册邮箱发送申请邮件至我们的支持团队：
 Please send a deletion request email from your registered email address to our support team:
